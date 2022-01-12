@@ -1,7 +1,7 @@
-# 입력으로 0에서 100사이의 정수값을 받아서
+# 입력으로 0에서 50사이의 정수값을 받아서
 # 보스톤 주택가격의 실제값과 예측값을 보여주는 프로그램
 # 모델을 학습하지 않고 저장된 모델 활용
-# 사용법 변경: python boston3.py 20(test_dataset_index) 2> /dev/null
+# 사용법 변경: python boston3.py test_dataset_index(0~50) 2> /dev/null
 
 # import part
 import sys
